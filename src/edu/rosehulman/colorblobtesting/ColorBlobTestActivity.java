@@ -22,7 +22,7 @@ import android.view.WindowManager;
 import android.widget.TextView;
 import android.widget.Toast;
 
-public class MainActivity extends Activity implements CvCameraViewListener2 {
+public class ColorBlobTestActivity extends Activity implements CvCameraViewListener2 {
 
   /** References to the UI widgets used in this demo app. */
   private TextView mLeftRightLocationTextView, mTopBottomLocationTextView, mSizePercentageTextView;

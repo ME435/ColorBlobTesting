@@ -6,7 +6,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="edu.rosehulman.colorblobtesting.MainActivity" >
+    tools:context="edu.rosehulman.colorblobtesting.ColorBlobTestActivity" >
 
     <org.opencv.android.JavaCameraView
         android:id="@+id/color_blob_detection_activity_surface_view"
